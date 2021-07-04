@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    margin: 4px;
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.section1 {
+    width: 100%;
+    background-color: gray;
+    margin-top: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.element1 {
+    text-align: center;
+    color: white;
+    height: 200px;
+    width: 15%;
+    margin-left: 4.16%;
+    background-color: red;
+}
+
+.section2 {
+    width: 100%;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.element2 {
+    text-align: center;
+    color: white;
+    background-color: gray;
+    height: 300px;
+    width: 20%;
+    margin-left: 4%;
+    display: inline-block;
+}
