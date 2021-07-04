@@ -1,5 +1,5 @@
 # AshutoshKumarVikram-LetsUpgrade-HTML-CSS-Assignment3
-Create two sections having background_color gray and black.
+Create two sections having background-color gray and black.
 
 In the first section there will be 5 elements with 15 % of width and red color arranged using flexbox .
   
